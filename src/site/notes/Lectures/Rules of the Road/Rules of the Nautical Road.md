@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-nautical-road/","created":"2025-05-26T08:00:39.559-04:00","updated":"2025-05-29T21:20:15.230-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-nautical-road/","created":"2025-05-26T08:00:39.559-04:00","updated":"2025-05-29T21:48:52.566-04:00"}
 ---
 
 
@@ -437,7 +437,7 @@ INLAND - ==Special flashing light== - Pushed ahead in inland waters
 Characteristics of a flashing light - 120 flashes per minute, various colors, 360°
 
 ##### Inconspicuous, partly submerged vessel or object
-###### <25m in breadth
+###### less than 25m in breadth
 one all around light at or near each end (Except dracones)
 ###### >25m in breadth
 two additional all-around lights marking the extreme breadth
