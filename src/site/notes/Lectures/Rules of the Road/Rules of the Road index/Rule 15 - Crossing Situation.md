@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-15-crossing-situation/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-15-crossing-situation/","created":"2025-05-27T09:37:50.669-04:00","updated":"2025-05-29T21:18:48.275-04:00"}
 ---
 
 # Rule 15

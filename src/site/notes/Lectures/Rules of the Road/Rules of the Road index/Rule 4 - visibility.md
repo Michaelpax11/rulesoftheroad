@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-4-visibility/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-4-visibility/","created":"2025-05-26T15:39:02.009-04:00","updated":"2025-05-29T21:15:11.041-04:00"}
 ---
 
 

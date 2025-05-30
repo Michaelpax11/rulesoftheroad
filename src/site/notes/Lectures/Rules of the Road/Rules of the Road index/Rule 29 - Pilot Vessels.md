@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-29-pilot-vessels/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-29-pilot-vessels/","created":"2025-05-29T15:40:18.416-04:00","updated":"2025-05-29T21:26:48.950-04:00"}
 ---
 
 # Rule 29

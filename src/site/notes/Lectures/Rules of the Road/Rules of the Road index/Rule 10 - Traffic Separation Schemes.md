@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-10-traffic-separation-schemes/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-10-traffic-separation-schemes/","created":"2025-05-27T07:57:41.970-04:00","updated":"2025-05-29T21:16:52.192-04:00"}
 ---
 
 # Rule 10

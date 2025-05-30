@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-18-responsibilities-between-vessels/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-18-responsibilities-between-vessels/","created":"2025-05-27T10:00:29.205-04:00","updated":"2025-05-29T21:19:30.423-04:00"}
 ---
 
 # Rule 18

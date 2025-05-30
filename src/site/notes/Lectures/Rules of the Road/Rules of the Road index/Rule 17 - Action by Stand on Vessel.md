@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-17-action-by-stand-on-vessel/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-17-action-by-stand-on-vessel/","created":"2025-05-27T09:43:17.593-04:00","updated":"2025-05-29T21:19:17.961-04:00"}
 ---
 
 # Rule 17

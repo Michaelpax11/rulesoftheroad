@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-16-action-by-the-give-way-vessel/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-16-action-by-the-give-way-vessel/","created":"2025-05-27T09:41:33.678-04:00","updated":"2025-05-29T21:18:59.478-04:00"}
 ---
 
 # Rule 16

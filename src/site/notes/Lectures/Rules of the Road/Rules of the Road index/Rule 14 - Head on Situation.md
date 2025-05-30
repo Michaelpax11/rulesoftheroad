@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-14-head-on-situation/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-14-head-on-situation/","created":"2025-05-27T09:26:54.372-04:00","updated":"2025-05-29T21:18:35.244-04:00"}
 ---
 
 # Rule 14

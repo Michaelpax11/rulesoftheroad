@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-22-visibility-of-lights/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-22-visibility-of-lights/","created":"2025-05-27T18:49:31.772-04:00","updated":"2025-05-29T21:20:58.523-04:00"}
 ---
 
 # Rule 22

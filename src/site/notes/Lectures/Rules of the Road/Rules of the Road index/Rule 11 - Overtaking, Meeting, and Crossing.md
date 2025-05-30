@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-11-overtaking-meeting-and-crossing/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-11-overtaking-meeting-and-crossing/","created":"2025-05-27T09:26:07.527-04:00","updated":"2025-05-29T21:17:33.042-04:00"}
 ---
 
 # Rule 11

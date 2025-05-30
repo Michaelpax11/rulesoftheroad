@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-24-towing-and-pushing-inland-vs-int/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-24-towing-and-pushing-inland-vs-int/","created":"2025-05-27T18:50:04.587-04:00","updated":"2025-05-29T21:21:32.906-04:00"}
 ---
 
 # Rule 24

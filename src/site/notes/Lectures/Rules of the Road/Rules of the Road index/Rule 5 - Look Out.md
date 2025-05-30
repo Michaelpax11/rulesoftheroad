@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-5-look-out/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-5-look-out/","created":"2025-05-26T15:39:08.658-04:00","updated":"2025-05-29T21:15:27.990-04:00"}
 ---
 
 

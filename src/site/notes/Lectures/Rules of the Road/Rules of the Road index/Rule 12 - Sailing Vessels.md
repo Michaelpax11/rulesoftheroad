@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-12-sailing-vessels/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-12-sailing-vessels/","created":"2025-05-27T09:26:21.357-04:00","updated":"2025-05-29T21:18:11.958-04:00"}
 ---
 
 # Rule 12

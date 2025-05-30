@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-2-responsibility/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-2-responsibility/","created":"2025-05-26T15:38:43.293-04:00","updated":"2025-05-29T21:14:39.510-04:00"}
 ---
 
 

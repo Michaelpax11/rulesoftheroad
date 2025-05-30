@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-19-conduct-of-vessels-in-restricted-visibility-missing-info/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-19-conduct-of-vessels-in-restricted-visibility-missing-info/","created":"2025-05-27T10:31:09.061-04:00","updated":"2025-05-29T21:19:42.247-04:00"}
 ---
 
 # Rule 19

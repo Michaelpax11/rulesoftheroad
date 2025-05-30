@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-8-action-to-avoid-collision/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-8-action-to-avoid-collision/","created":"2025-05-26T15:42:43.393-04:00","updated":"2025-05-29T21:16:22.525-04:00"}
 ---
 
 # Rule 8

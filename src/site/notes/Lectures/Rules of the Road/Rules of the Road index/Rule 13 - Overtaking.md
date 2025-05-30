@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-13-overtaking/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-13-overtaking/","created":"2025-05-27T09:26:39.790-04:00","updated":"2025-05-29T21:18:09.605-04:00"}
 ---
 
 # Rule 13

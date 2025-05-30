@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-1-general/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-1-general/","created":"2025-05-26T15:38:29.062-04:00","updated":"2025-05-29T21:13:27.172-04:00"}
 ---
 
 # Rule 1

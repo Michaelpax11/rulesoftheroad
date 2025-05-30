@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-3-definitions/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-3-definitions/","created":"2025-05-26T15:38:53.394-04:00","updated":"2025-05-29T21:14:59.127-04:00"}
 ---
 
 

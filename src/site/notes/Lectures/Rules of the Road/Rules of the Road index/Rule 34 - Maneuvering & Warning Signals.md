@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-34-maneuvering-and-warning-signals/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-34-maneuvering-and-warning-signals/","created":"2025-05-29T15:42:05.783-04:00","updated":"2025-05-29T21:28:01.234-04:00"}
 ---
 
 # Rule 34

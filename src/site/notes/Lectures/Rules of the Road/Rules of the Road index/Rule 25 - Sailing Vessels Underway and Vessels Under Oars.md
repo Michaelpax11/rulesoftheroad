@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-25-sailing-vessels-underway-and-vessels-under-oars/"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-25-sailing-vessels-underway-and-vessels-under-oars/","created":"2025-05-29T08:39:05.580-04:00","updated":"2025-05-29T21:24:24.686-04:00"}
 ---
 
 # Rule 25
