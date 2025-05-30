@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-nautical-road/","created":"2025-05-26T08:00:39.559-04:00","updated":"2025-05-30T10:17:03.658-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-nautical-road/","created":"2025-05-26T08:00:39.559-04:00","updated":"2025-05-30T14:46:13.169-04:00"}
 ---
 
 # Go To [[Lectures/Rules of the Road/Rules of the Road index/ROTR Index\|ROTR Index]]
@@ -230,7 +230,7 @@ A vessel of less than 20 meters in length or a sailing vessel shall not impede t
 
 A vessel restricted in her ability to maneuver is exempted from complying with this rule to the extent necessary to carry out her operation
 
-##### [[Lectures/Rules of the Road/Rules of the Road index/Rule 11 - Overtaking, Meeting, and Crossing\|Rule 11 - Overtaking, Meeting, and Crossing]]
+##### [[Lectures/Rules of the Road/Rules of the Road index/Rule 11 - Vessels in Sight of One Another\|Rule 11 - Vessels in Sight of One Another]]
 The Rules concerning overtaking, meeting, and crossing situations apply ONLY to vessels in sight of one another
 
 This means that vessels can see each other visually
@@ -510,7 +510,7 @@ Carries pilots to and from ship as well.
 
 Lights for pilot boat are an additional identifier that can be shown
 
-##### [[Lectures/Rules of the Road/Rules of the Road index/Rule 30 - Anchored vessels\|Rule 30 - Anchored vessels]] 
+##### [[Lectures/Rules of the Road/Rules of the Road index/Rule 30 - Anchored Vessels and Vessels Aground\|Rule 30 - Anchored Vessels and Vessels Aground]] 
 Less than 50m - all around light
 More than 50m - aft and forward all around white lights
 

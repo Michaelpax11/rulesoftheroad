@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rotr-index/","tags":["gardenEntry"],"created":"2025-05-26T15:40:30.828-04:00","updated":"2025-05-30T11:10:33.392-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rotr-index/","tags":["gardenEntry"],"created":"2025-05-26T15:40:30.828-04:00","updated":"2025-05-30T14:46:13.170-04:00"}
 ---
 
 ***
@@ -32,7 +32,7 @@
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 10 - Traffic Separation Schemes\|Rule 10 - Traffic Separation Schemes]]
 
-[[Lectures/Rules of the Road/Rules of the Road index/Rule 11 - Overtaking, Meeting, and Crossing\|Rule 11 - Overtaking, Meeting, and Crossing]]
+[[Lectures/Rules of the Road/Rules of the Road index/Rule 11 - Vessels in Sight of One Another\|Rule 11 - Vessels in Sight of One Another]]
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 12 - Sailing Vessels\|Rule 12 - Sailing Vessels]]
 
@@ -71,7 +71,7 @@
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 29 - Pilot Vessels\|Rule 29 - Pilot Vessels]]
 
-[[Lectures/Rules of the Road/Rules of the Road index/Rule 30 - Anchored vessels\|Rule 30 - Anchored vessels]]
+[[Lectures/Rules of the Road/Rules of the Road index/Rule 30 - Anchored Vessels and Vessels Aground\|Rule 30 - Anchored Vessels and Vessels Aground]]
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 31 - Seaplanes\|Rule 31 - Seaplanes]]
 ## Sound and Light Signals

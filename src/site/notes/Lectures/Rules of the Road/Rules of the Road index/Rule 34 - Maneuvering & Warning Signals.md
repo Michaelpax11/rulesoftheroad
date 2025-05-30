@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-34-maneuvering-and-warning-signals/","created":"2025-05-29T15:42:05.783-04:00","updated":"2025-05-30T11:17:48.798-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-34-maneuvering-and-warning-signals/","created":"2025-05-29T15:42:05.783-04:00","updated":"2025-05-30T15:12:20.151-04:00"}
 ---
-
 
 ###### International
 "I AM"
@@ -12,7 +11,7 @@ Meeting or crossing and action is required (No answer is required)
 "I INTEND"
 
 Meeting or crossing at a distance within 1/2 mile, each vessel when maneuvering shall indicate the maneuver as follows
-
+***
 
 Overtaking in a narrow channel or fairway and action is required
 international - any vessel

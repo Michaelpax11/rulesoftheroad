@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-4-visibility/","created":"2025-05-26T15:39:02.009-04:00","updated":"2025-05-30T11:15:29.001-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-4-visibility/","created":"2025-05-26T15:39:02.009-04:00","updated":"2025-05-30T14:31:18.655-04:00"}
 ---
 
 ### International & Inland
@@ -17,7 +17,7 @@ Section I applies to "**any condition of visibility**" and includes rules 4-10. 
 
 Section II includes Rules 11-18 and applies to vessels "_**in sight of one another**"
 
-[[Lectures/Rules of the Road/Rules of the Road index/Rule 11 - Overtaking, Meeting, and Crossing\|Rule 11 - Overtaking, Meeting, and Crossing]]
+[[Lectures/Rules of the Road/Rules of the Road index/Rule 11 - Vessels in Sight of One Another\|Rule 11 - Vessels in Sight of One Another]]
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 12 - Sailing Vessels\|Rule 12 - Sailing Vessels]]
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 13 - Overtaking\|Rule 13 - Overtaking]]
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 14 - Head on Situation\|Rule 14 - Head on Situation]]
