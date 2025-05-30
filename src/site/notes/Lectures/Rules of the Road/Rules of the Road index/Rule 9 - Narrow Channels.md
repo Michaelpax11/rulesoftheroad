@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-9-narrow-channels/","created":"2025-05-26T16:01:41.319-04:00","updated":"2025-05-29T21:16:35.124-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-9-narrow-channels/","created":"2025-05-26T16:01:41.319-04:00","updated":"2025-05-30T11:15:50.359-04:00"}
 ---
-
-# Rule 9
 
 
 A "narrow channel" is not defined in teh Rules. there are no limits to length, width or depth, except in relation to teh vessels involved.

@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-18-responsibilities-between-vessels/","created":"2025-05-27T10:00:29.205-04:00","updated":"2025-05-30T09:29:36.943-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-18-responsibilities-between-vessels/","created":"2025-05-27T10:00:29.205-04:00","updated":"2025-05-30T11:16:34.853-04:00"}
 ---
 
-# Rule 18
 ### Inland & International
 
 ###### Who has to keep out of the way?

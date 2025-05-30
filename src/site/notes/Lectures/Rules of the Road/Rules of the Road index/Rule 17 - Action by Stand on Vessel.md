@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-17-action-by-stand-on-vessel/","created":"2025-05-27T09:43:17.593-04:00","updated":"2025-05-30T09:25:40.865-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-17-action-by-stand-on-vessel/","created":"2025-05-27T09:43:17.593-04:00","updated":"2025-05-30T11:16:28.522-04:00"}
 ---
 
-# Rule 17
 
 Applies when 1 of 2 vessels is to keep out of the way the other **SHALL** keep her course and speed. 
 

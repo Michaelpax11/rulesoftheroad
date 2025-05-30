@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-16-action-by-the-give-way-vessel/","created":"2025-05-27T09:41:33.678-04:00","updated":"2025-05-30T09:18:54.019-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-16-action-by-the-give-way-vessel/","created":"2025-05-27T09:41:33.678-04:00","updated":"2025-05-30T11:16:24.847-04:00"}
 ---
 
-# Rule 16
 ### International & Inland
 
 Take **early** and **substantial** action

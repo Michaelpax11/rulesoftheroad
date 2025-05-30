@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-3-definitions/","created":"2025-05-26T15:38:53.394-04:00","updated":"2025-05-30T10:34:36.605-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-3-definitions/","created":"2025-05-26T15:38:53.394-04:00","updated":"2025-05-30T11:15:25.264-04:00"}
 ---
 
-
-# Rule 3 - Definitions
 ### Inland & International
 
 General definitions

@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-7-risk-of-collision/","created":"2025-05-26T15:39:28.177-04:00","updated":"2025-05-30T08:03:20.219-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-7-risk-of-collision/","created":"2025-05-26T15:39:28.177-04:00","updated":"2025-05-30T11:15:43.807-04:00"}
 ---
 
-
-# Rule 7
 
 All available means **shall** be used to determine if risk of collision exists; if in doubt as to whether or not it exists, assume that it does!!
 

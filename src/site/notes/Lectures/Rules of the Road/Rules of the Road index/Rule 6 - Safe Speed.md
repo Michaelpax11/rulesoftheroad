@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-6-safe-speed/","created":"2025-05-26T15:39:21.959-04:00","updated":"2025-05-29T21:15:54.424-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-6-safe-speed/","created":"2025-05-26T15:39:21.959-04:00","updated":"2025-05-30T11:15:40.632-04:00"}
 ---
 
 
-# Rule 6
 
 "Every vessel shall at all times proceed at a safe speed so that she can take proper and effective action to avoid collision and be stopped within a distance appropriate to teh prevailing circumstances and conditions"
 

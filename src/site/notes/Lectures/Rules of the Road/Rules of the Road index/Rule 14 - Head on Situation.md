@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-14-head-on-situation/","created":"2025-05-27T09:26:54.372-04:00","updated":"2025-05-30T09:12:17.446-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-14-head-on-situation/","created":"2025-05-27T09:26:54.372-04:00","updated":"2025-05-30T11:16:06.406-04:00"}
 ---
 
-# Rule 14
 
 ###### Elements
 - Two power driven vessels

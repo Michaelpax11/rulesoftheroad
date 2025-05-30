@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-26-fishing-vessels/","created":"2025-05-29T08:50:21.029-04:00","updated":"2025-05-29T21:24:36.340-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-26-fishing-vessels/","created":"2025-05-29T08:50:21.029-04:00","updated":"2025-05-30T11:17:14.199-04:00"}
 ---
 
-# Rule 26
 
 ###### Engaged in Trawling
 Dragging through the water a net or other fishing appliance

@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-2-responsibility/","created":"2025-05-26T15:38:43.293-04:00","updated":"2025-05-30T10:24:51.850-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-2-responsibility/","created":"2025-05-26T15:38:43.293-04:00","updated":"2025-05-30T11:15:19.023-04:00"}
 ---
 
-
-# Rule 2
 ### Inland & International
 
 Nothing in these rules shall exonerate any vessel, or the owner, master or crew thereof, from the consequences of any neglect to comply with these rules.

@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-35-sound-signals-in-restricted-visibility/","created":"2025-05-29T15:42:17.050-04:00","updated":"2025-05-29T21:28:14.923-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-35-sound-signals-in-restricted-visibility/","created":"2025-05-29T15:42:17.050-04:00","updated":"2025-05-30T11:17:52.291-04:00"}
 ---
 
-# Rule 35
 
 Power driven vessel MAKING WAY - intervals not more than 2 minutes
 

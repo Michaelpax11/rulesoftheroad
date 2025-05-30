@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-4-visibility/","created":"2025-05-26T15:39:02.009-04:00","updated":"2025-05-30T10:39:28.366-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-4-visibility/","created":"2025-05-26T15:39:02.009-04:00","updated":"2025-05-30T11:15:29.001-04:00"}
 ---
 
-
-# Rule 4
 ### International & Inland
 There are 3 sections to Part B, steering and sailing rules:
 

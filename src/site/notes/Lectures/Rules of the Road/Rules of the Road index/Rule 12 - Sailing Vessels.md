@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-12-sailing-vessels/","created":"2025-05-27T09:26:21.357-04:00","updated":"2025-05-30T09:06:58.150-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-12-sailing-vessels/","created":"2025-05-27T09:26:21.357-04:00","updated":"2025-05-30T11:15:59.924-04:00"}
 ---
 
-# Rule 12
 ###### Elements
 - Two sailing vessels
 - In sight of one another

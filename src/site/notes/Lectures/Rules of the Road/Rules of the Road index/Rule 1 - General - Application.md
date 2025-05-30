@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-1-general-application/","created":"2025-05-26T15:38:29.062-04:00","updated":"2025-05-30T10:22:05.804-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-1-general-application/","created":"2025-05-26T15:38:29.062-04:00","updated":"2025-05-30T11:15:09.252-04:00"}
 ---
 
-# Rule 1
 
 These rules apply to all vessels:
-- International - on high seas and all connecting waters navigable by seagoing vessels
-- Inland - inland waters of the US within lines of demarcation
+- **International** - on high seas and all connecting waters navigable by seagoing vessels
+- **Inland** - inland waters of the US within lines of demarcation
 
 Special Rules may be enacted by host nation for special purpose vessels but should not c conflict with intl rqmts
 

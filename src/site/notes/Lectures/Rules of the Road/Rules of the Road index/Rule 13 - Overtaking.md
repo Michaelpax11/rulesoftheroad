@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-13-overtaking/","created":"2025-05-27T09:26:39.790-04:00","updated":"2025-05-30T08:47:12.257-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-13-overtaking/","created":"2025-05-27T09:26:39.790-04:00","updated":"2025-05-30T11:16:03.527-04:00"}
 ---
 
-# Rule 13
 
 ###### Elements
 - Any two vessels 

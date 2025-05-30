@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-20-lights-and-dayshapes/","created":"2025-05-27T18:49:01.821-04:00","updated":"2025-05-29T21:20:28.503-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-20-lights-and-dayshapes/","created":"2025-05-27T18:49:01.821-04:00","updated":"2025-05-30T11:16:50.323-04:00"}
 ---
 
-# Rule 20
 
 Rules in this part shall be complied with in ALL WEATHERS 
 

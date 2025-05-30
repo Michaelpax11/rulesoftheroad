@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-5-look-out/","created":"2025-05-26T15:39:08.658-04:00","updated":"2025-05-29T21:15:27.990-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-5-look-out/","created":"2025-05-26T15:39:08.658-04:00","updated":"2025-05-30T11:15:37.624-04:00"}
 ---
 
-
-# Rule 5
 
 Every vessel SHALL AT ALL TIMES maintain a proper lookout by sight and hearing as well as by all means appropriate in teh prevailing circumstances and conditions so as to make a full appraisal of the situation and of the risk of collision
 

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-19-conduct-of-vessels-in-restricted-visibility/","created":"2025-05-27T10:31:09.061-04:00","updated":"2025-05-30T10:00:58.274-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-19-conduct-of-vessels-in-restricted-visibility/","created":"2025-05-27T10:31:09.061-04:00","updated":"2025-05-30T11:16:45.633-04:00"}
 ---
 
-# Rule 19
-## International and Inland
+### International and Inland
 
 **Applies to vessels not in sight** of one another when navigating in or near an area of restricted visibility
 

@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-21-definitions/","created":"2025-05-27T18:49:16.151-04:00","updated":"2025-05-29T21:20:42.240-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-21-definitions/","created":"2025-05-27T18:49:16.151-04:00","updated":"2025-05-30T11:16:54.873-04:00"}
 ---
 
-# Rule 21
 
 Masthead light - white - 225°, from 22.5° abaft the beam on both sides
 

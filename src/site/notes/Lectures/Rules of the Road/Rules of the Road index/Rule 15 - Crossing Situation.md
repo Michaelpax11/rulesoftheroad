@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-15-crossing-situation/","created":"2025-05-27T09:37:50.669-04:00","updated":"2025-05-30T09:19:14.916-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-15-crossing-situation/","created":"2025-05-27T09:37:50.669-04:00","updated":"2025-05-30T11:16:14.685-04:00"}
 ---
 
-# Rule 15
 ### International & Inland
 
 ###### Elements
