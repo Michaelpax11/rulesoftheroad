@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rotr-index/","tags":["gardenEntry"],"created":"2025-05-26T15:40:30.828-04:00","updated":"2025-05-29T21:38:44.623-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rotr-index/","tags":["gardenEntry"],"created":"2025-05-26T15:40:30.828-04:00","updated":"2025-05-30T05:00:19.837-04:00"}
 ---
 
 ***
-
+# Rules of the Road Index
+***
 
 [[Lectures/Rules of the Road/Rules of the Nautical Road\|Rules of the Nautical Road]]
 
