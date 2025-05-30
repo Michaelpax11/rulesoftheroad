@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-nautical-road/","created":"2025-05-26T08:00:39.559-04:00","updated":"2025-05-30T08:02:53.415-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-nautical-road/","created":"2025-05-26T08:00:39.559-04:00","updated":"2025-05-30T09:16:55.894-04:00"}
 ---
 
 # Go To [[Lectures/Rules of the Road/Rules of the Road index/ROTR Index\|ROTR Index]]
@@ -285,7 +285,7 @@ On the great lakes, western rivers or water specified by the secretary ---
 
 Masthead lights so power driven
 
-##### [[Lectures/Rules of the Road/Rules of the Road index/Rule 16 - Action by the give way vessel\|Rule 16 - Action by the give way vessel]]
+##### [[Lectures/Rules of the Road/Rules of the Road index/Rule 16 - Action by the Give Way Vessel\|Rule 16 - Action by the Give Way Vessel]]
 Take early and substantial action
 
 Let the other vessel be certain you are taking appropriate action

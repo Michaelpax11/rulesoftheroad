@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rotr-index/","tags":["gardenEntry"],"created":"2025-05-26T15:40:30.828-04:00","updated":"2025-05-30T08:02:53.417-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rotr-index/","tags":["gardenEntry"],"created":"2025-05-26T15:40:30.828-04:00","updated":"2025-05-30T09:33:44.216-04:00"}
 ---
 
 ***
@@ -7,12 +7,14 @@
 ***
 
 [[Lectures/Rules of the Road/Rules of the Nautical Road\|Rules of the Nautical Road]]
+## General
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 1 - General\|Rule 1 - General]]
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 2 - Responsibility\|Rule 2 - Responsibility]]
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 3 - Definitions\|Rule 3 - Definitions]]
+## Steering and Sailing Rules
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 4 - Visibility\|Rule 4 - Visibility]]
 
@@ -38,13 +40,14 @@
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 15 - Crossing Situation\|Rule 15 - Crossing Situation]]
 
-[[Lectures/Rules of the Road/Rules of the Road index/Rule 16 - Action by the give way vessel\|Rule 16 - Action by the give way vessel]]
+[[Lectures/Rules of the Road/Rules of the Road index/Rule 16 - Action by the Give Way Vessel\|Rule 16 - Action by the Give Way Vessel]]
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 17 - Action by Stand on Vessel\|Rule 17 - Action by Stand on Vessel]]
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 18 - Responsibilities Between Vessels\|Rule 18 - Responsibilities Between Vessels]]
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 19 - Conduct of vessels in restricted visibility - Missing info\|Rule 19 - Conduct of vessels in restricted visibility - Missing info]]
+## Lights and Shapes
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 20 - Lights and Dayshapes\|Rule 20 - Lights and Dayshapes]]
 
@@ -69,6 +72,7 @@
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 30 - Anchored vessels\|Rule 30 - Anchored vessels]]
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 31 - Seaplanes\|Rule 31 - Seaplanes]]
+## Sound and Light Signals
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 32 - Definitions\|Rule 32 - Definitions]]
 
