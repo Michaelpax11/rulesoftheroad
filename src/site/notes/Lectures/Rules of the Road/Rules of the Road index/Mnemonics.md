@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/mnemonics/","created":"2025-05-30T10:39:37.286-04:00","updated":"2025-05-30T11:14:01.159-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/mnemonics/","created":"2025-05-30T10:39:37.286-04:00","updated":"2025-05-30T16:18:56.488-04:00"}
 ---
-
 
 ##### Safe Speed Factors
 **V**ampire - **V**isibility
@@ -49,3 +48,4 @@ T - Towing
 E - Engaged in Trawling
 R - Restricted in Ability to Maneuver 
 S - Sailing
+![Screenshot 2025-05-30 at 4.04.35 PM.png](/img/user/attachments/Screenshot%202025-05-30%20at%204.04.35%20PM.png)
