@@ -59,7 +59,7 @@
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 26 - Fishing Vessels\|Rule 26 - Fishing Vessels]]
 
-[[Lectures/Rules of the Road/Rules of the Road index/Rule 27 - Vessels Not Under Command\|Rule 27 - Vessels Not Under Command]]
+[[Rule 27 - Vessels Not Under Command\|Rule 27 - Vessels Not Under Command]]
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 28 - Vessels Constrained by her draft\|Rule 28 - Vessels Constrained by her draft]]
 
