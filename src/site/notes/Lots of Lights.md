@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/lots-of-lights/","created":"2025-05-30T16:19:28.842-04:00","updated":"2025-05-30T16:28:44.844-04:00"}
+{"dg-publish":true,"permalink":"/lots-of-lights/","created":"2025-05-30T16:19:28.842-04:00","updated":"2025-05-30T16:30:18.316-04:00"}
 ---
 
 I got tired of adding photos, here's a link to the slides:
 https://uscga.desire2learn.com/d2l/le/content/30257/viewContent/495281/View
-
+![NAV lights.jpg](/img/user/attachments/NAV%20lights.jpg)
 ## Power Driven Vessels Underway
 ![Screenshot 2025-05-30 at 3.39.24 PM.png|650](/img/user/attachments/Screenshot%202025-05-30%20at%203.39.24%20PM.png)
 
