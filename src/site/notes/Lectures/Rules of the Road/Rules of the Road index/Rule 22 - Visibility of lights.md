@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-22-visibility-of-lights/","created":"2025-05-27T18:49:31.772-04:00","updated":"2025-05-30T14:41:29.014-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-22-visibility-of-lights/","created":"2025-05-27T18:49:31.772-04:00","updated":"2025-05-30T15:38:58.811-04:00"}
 ---
+
+![Pasted image 20250530153834.png|500](/img/user/attachments/Pasted%20image%2020250530153834.png)
 
 
 Vessels of **50 meters or more** in length:
