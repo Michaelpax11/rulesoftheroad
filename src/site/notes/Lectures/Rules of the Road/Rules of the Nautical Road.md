@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-nautical-road/","created":"2025-05-26T08:00:39.559-04:00","updated":"2025-05-30T09:16:55.894-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-nautical-road/","created":"2025-05-26T08:00:39.559-04:00","updated":"2025-05-30T10:17:03.658-04:00"}
 ---
 
 # Go To [[Lectures/Rules of the Road/Rules of the Road index/ROTR Index\|ROTR Index]]
@@ -24,7 +24,7 @@ You do not have to be in danger to sound the danger signal, can be used in any s
 ***
 ### Rules 1-3
 General Rules
-##### [[Lectures/Rules of the Road/Rules of the Road index/Rule 1 - General\|Rule 1 - General]]
+##### [[Lectures/Rules of the Road/Rules of the Road index/Rule 1 - General - Application\|Rule 1 - General - Application]]
 These rules apply to all vessels:
 - International - on high seas and all connecting waters navigable by seagoing vessels
 - Inland - inland waters og the US within lines of demarcation
@@ -327,7 +327,7 @@ Power-driven vessel
 Seaplane
 WIG
 
-##### [[Lectures/Rules of the Road/Rules of the Road index/Rule 19 - Conduct of vessels in restricted visibility - Missing info\|Rule 19 - Conduct of vessels in restricted visibility - Missing info]]
+##### [[Lectures/Rules of the Road/Rules of the Road index/Rule 19 - Conduct of Vessels in Restricted Visibility\|Rule 19 - Conduct of Vessels in Restricted Visibility]]
 Applies to vessels not in sight of one another when navigating in or near an area of restricted visibility
 
 if you can see the other vessel, this Rule does not apply

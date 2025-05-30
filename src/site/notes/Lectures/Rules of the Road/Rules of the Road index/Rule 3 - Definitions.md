@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-3-definitions/","created":"2025-05-26T15:38:53.394-04:00","updated":"2025-05-29T21:14:59.127-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-3-definitions/","created":"2025-05-26T15:38:53.394-04:00","updated":"2025-05-30T10:30:33.659-04:00"}
 ---
 
 
 # Rule 3
+### Inland & International
 
 General definitions
 
@@ -19,9 +20,16 @@ Seaplane - includes any aircraft designed to maneuver on the water
 
 Vessel not under command - vessel which through some exceptional means is unable to maneuver as required by these rules and is therefore unable to keep out of the way of another vessel eg. rudder failure
 
-Vessel restricted in ability to maneuver - vessel which from the nature of her work is restricted in her ability to maneuver
+Vessel restricted in ability to maneuver - vessel which from the nature of her work is restricted in her ability to maneuver. **SHALL** include but not limited to:
+- Servicing ATON
+- Dredging/Surveying
+- UNREP
+- Flight Ops
+- Mine Clearance Ops
+- Towing when RAM
 
-Vessel constrained by Draft - water too shallow to adequately maneuver
+###### **International**
+Vessel constrained by Draft - power-driven vessel which **because of her draft** in relation to the available depth and width of navigable water is severely restricted in her ability to deviate from the course she is following.
 
 Underway - vessel not at anchor, or made fast to the shore or aground
 
@@ -29,6 +37,6 @@ Restricted visibility - Condition in which visibility is restricted by fog, mist
 
 WIG - Wing in Ground, uses cushion of air to travel just above the waters surface
 
-Length and breadth 
+Length and breadth - Length overall and Greatest breadth
 
 Vessels shall be deemed to be in sight of one another only when one can be observed visually from the other
