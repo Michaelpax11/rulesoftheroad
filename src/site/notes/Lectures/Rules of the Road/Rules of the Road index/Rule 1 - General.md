@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-1-general/"}
 ---
 
+# Rule 1
 
 These rules apply to all vessels:
 - International - on high seas and all connecting waters navigable by seagoing vessels
