@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rotr-index/","tags":["gardenEntry"],"created":"2025-05-26T15:40:30.828-04:00","updated":"2025-05-30T05:00:19.837-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rotr-index/","tags":["gardenEntry"],"created":"2025-05-26T15:40:30.828-04:00","updated":"2025-05-30T08:02:53.417-04:00"}
 ---
 
 ***
@@ -14,7 +14,7 @@
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 3 - Definitions\|Rule 3 - Definitions]]
 
-[[Lectures/Rules of the Road/Rules of the Road index/Rule 4 - visibility\|Rule 4 - visibility]]
+[[Lectures/Rules of the Road/Rules of the Road index/Rule 4 - Visibility\|Rule 4 - Visibility]]
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 5 - Look Out\|Rule 5 - Look Out]]
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-nautical-road/","created":"2025-05-26T08:00:39.559-04:00","updated":"2025-05-29T22:07:41.206-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-nautical-road/","created":"2025-05-26T08:00:39.559-04:00","updated":"2025-05-30T08:02:53.415-04:00"}
 ---
 
 # Go To [[Lectures/Rules of the Road/Rules of the Road index/ROTR Index\|ROTR Index]]
@@ -92,7 +92,7 @@ Length and breadth
 Vessels shall be deemed to be in sight of one another only when one can be observed visually from the other
 ***
 ## ANY CONDITION OF VISIBILITY
-##### [[Lectures/Rules of the Road/Rules of the Road index/Rule 4 - visibility\|Rule 4 - visibility]]
+##### [[Lectures/Rules of the Road/Rules of the Road index/Rule 4 - Visibility\|Rule 4 - Visibility]]
 There are 3 sections to Part B, the steering and sailing rules:
 
 Section I applies to "_**any condition of visibility**" and includes rules 4-10. these rules must be followed at all times.

@@ -1,12 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-12-sailing-vessels/","created":"2025-05-27T09:26:21.357-04:00","updated":"2025-05-29T21:18:11.958-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rule-12-sailing-vessels/","created":"2025-05-27T09:26:21.357-04:00","updated":"2025-05-30T08:11:17.885-04:00"}
 ---
 
 # Rule 12
+###### Elements
+- Two sailing vessels
+- In sight of one another
+- Risk of collision exists
 
-When two sailing vessels are approaching, wind coming over port side is the give way vessel
+### International & Inland
+When two sailing vessels are approaching with wind on different sides, the vessel with **wind coming over port side (on port tack)** is the **give way** vessel
 
-Boom to starboard - give way
-Boom to port - stand on
+When both vessels have the **wind on the same side**, the vessel which is to **windward** has to **give way**
 
-When both have the wind on teh same side, teh vessel which is to windward on the same side, the vessel which is to windward has to give way
+### International and Inland 
+If a vessel with the wind on the **port side** sees a vessel to windward and **cannot determine** with certainty whether the other vessel has the wind on the port or starboard side, she shall **keep**  
+**out of the way** of the other
+
+For the purposes of this Rule the windward side shall be deemed to be the side opposite that on which the mainsail is carried or, in the case of a square-rigged  
+vessel, the side opposite to that on which the  
+largest fore-and-aft sail is carried.
