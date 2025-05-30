@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rotr-index/","tags":["gardenEntry"],"created":"2025-05-26T15:40:30.828-04:00","updated":"2025-05-30T10:53:30.342-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rotr-index/","tags":["gardenEntry"],"created":"2025-05-26T15:40:30.828-04:00","updated":"2025-05-30T10:57:49.244-04:00"}
 ---
 
 ***
@@ -8,7 +8,7 @@
 
 #### [[Lectures/Rules of the Road/Rules of the Nautical Road\|Rules of the Nautical Road]]
 
-#### [[Lectures/Rules of the Road/Rules of the Road index/Mnemonics\|Mnemonics]]
+#### [[Lectures/Rules of the Road/Rules of the Road index/Mnemonics\|Mnemonics]]]
 ## General
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 1 - General - Application\|Rule 1 - General - Application]]
