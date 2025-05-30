@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rotr-index/","tags":["gardenEntry"],"created":"2025-05-26T15:40:30.828-04:00","updated":"2025-05-29T21:20:15.232-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/rotr-index/","tags":["gardenEntry"],"created":"2025-05-26T15:40:30.828-04:00","updated":"2025-05-29T21:38:44.623-04:00"}
 ---
 
 ***
@@ -59,7 +59,7 @@
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 26 - Fishing Vessels\|Rule 26 - Fishing Vessels]]
 
-[[Rule 27 - Vessels Not Under Command\|Rule 27 - Vessels Not Under Command]]
+[[Lectures/Rules of the Road/Rules of the Road index/Rule 27 - Vessels Not Under Command or RAM\|Rule 27 - Vessels Not Under Command or RAM]]
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 28 - Vessels Constrained by her draft\|Rule 28 - Vessels Constrained by her draft]]
 
