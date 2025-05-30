@@ -27,7 +27,7 @@
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 10 - Traffic Separation Schemes\|Rule 10 - Traffic Separation Schemes]]
 
-[[Lectures/Rules of the Road/Rules of the Road index/Rule 11\|Rule 11]]
+[[Lectures/Rules of the Road/Rules of the Road index/Rule 11 - Overtaking, Meeting, and Crossing\|Rule 11 - Overtaking, Meeting, and Crossing]]
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 12 - Sailing Vessels\|Rule 12 - Sailing Vessels]]
 
@@ -45,7 +45,7 @@
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 19 - Conduct of vessels in restricted visibility - Missing info\|Rule 19 - Conduct of vessels in restricted visibility - Missing info]]
 
-[[Lectures/Rules of the Road/Rules of the Road index/Rule 20\|Rule 20]]
+[[Lectures/Rules of the Road/Rules of the Road index/Rule 20 - Lights and Dayshapes\|Rule 20 - Lights and Dayshapes]]
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 21 - Definitions\|Rule 21 - Definitions]]
 

@@ -229,7 +229,7 @@ A vessel of less than 20 meters in length or a sailing vessel shall not impede t
 
 A vessel restricted in her ability to maneuver is exempted from complying with this rule to the extent necessary to carry out her operation
 
-##### [[Lectures/Rules of the Road/Rules of the Road index/Rule 11\|Rule 11]]
+##### [[Lectures/Rules of the Road/Rules of the Road index/Rule 11 - Overtaking, Meeting, and Crossing\|Rule 11 - Overtaking, Meeting, and Crossing]]
 The Rules concerning overtaking, meeting, and crossing situations apply ONLY to vessels in sight of one another
 
 This means that vessels can see each other visually
@@ -352,7 +352,7 @@ unless you determine there is no risk of collision, anytime you hear a fog signa
 - slow to bare steerageway and take all way off your vessel
 - Navigate with extreme caution
 
-##### [[Lectures/Rules of the Road/Rules of the Road index/Rule 20\|Rule 20]]
+##### [[Lectures/Rules of the Road/Rules of the Road index/Rule 20 - Lights and Dayshapes\|Rule 20 - Lights and Dayshapes]]
 Rules in this part shall be complied with in ALL WEATHERS 
 
 the rules concerning lights SHALL be complied with from SUNSET TO SUNRISE and during such times NO other lights shall be exhibited which would obstruct or be mistaken for navigation lights. 
