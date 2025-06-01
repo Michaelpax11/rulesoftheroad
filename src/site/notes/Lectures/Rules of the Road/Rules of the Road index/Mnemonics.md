@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/mnemonics/","created":"2025-05-30T10:39:37.286-04:00","updated":"2025-05-30T16:18:56.488-04:00"}
+{"dg-publish":true,"permalink":"/lectures/rules-of-the-road/rules-of-the-road-index/mnemonics/","created":"2025-05-30T10:39:37.286-04:00","updated":"2025-06-01T08:35:15.166-04:00"}
 ---
 
 ##### Safe Speed Factors
@@ -42,10 +42,10 @@ Windward
 All of the following sound **one prolonged blast followed by two short blasts** at an interval of **no more than two minutes**:
 
 C - Constrained by draft
-E - Engaged in fishing
+E - Engaged in fishing **- Makes same sound signal in restricted visibility**
 N - Not under Command
-T - Towing
-E - Engaged in Trawling
-R - Restricted in Ability to Maneuver 
+T - Towing 
+E - Engaged in Trawling **- Makes same sound signal at ancor
+R - Restricted in Ability to Maneuver **- Makes same sound signal in restricted visibility**
 S - Sailing
 ![Screenshot 2025-05-30 at 4.04.35 PM.png](/img/user/attachments/Screenshot%202025-05-30%20at%204.04.35%20PM.png)
