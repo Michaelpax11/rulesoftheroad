@@ -10,9 +10,9 @@
 
 #### [[Lectures/Rules of the Road/Rules of the Road index/Mnemonics\|Mnemonics]]
 
-#### [[Day Shapes\|Day Shapes]]
+#### [[Lectures/Rules of the Road/Rules of the Road index/Day Shapes\|Day Shapes]]
 
-#### [[Lots of Lights\|Lots of Lights]]
+#### [[Lectures/Rules of the Road/Rules of the Road index/Lots of Lights\|Lots of Lights]]
 ## General
 
 [[Lectures/Rules of the Road/Rules of the Road index/Rule 1 - General - Application\|Rule 1 - General - Application]]
